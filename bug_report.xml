@@ -1,1 +1,13 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+    <Topic>Не переведены на украинский язык тексты ошибок на форме “Зворотний зв’язок” на странице https://itawards.ua/ua в UA версии сайта</Topic>
+    <Steps_to_play>
+        <First>Открыть страницу https://itawards.ua/ua</First>
+        <Two>Проскролить к форме “Зворотний зв’язок</Two>
+        <Thre>Нажать на кнопку “Надіслати”</Thre>
+        <Four>Обратить внимание на язык ошибок, которые появились под полями формы</Four>
+    </Steps_to_play>
+    <Actual_result>Отображаются ошибки на английском языке</Actual_result>
+    <Expected_Result>Отображаются ошибки на украинском языке</Expected_Result>
+    <seriousness>S1 (minor)</seriousness>
+</bug_report>
